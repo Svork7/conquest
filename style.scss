@@ -241,13 +241,13 @@ body {
   right: 10px;
   font-family: 'Prata';
   line-height: 22px;
-}
 
-.watch__diameter > hr {
-  margin-top: -12px;
-  margin-left: -65px;
-  width: 50px;
-  border-top: 1px solid #8b8371;
+  & > hr {
+    margin-top: -12px;
+    margin-left: -65px;
+    width: 50px;
+    border-top: 1px solid #8b8371;
+  }
 }
 
 .popular {
@@ -303,7 +303,7 @@ body {
   &-img {
     width: 313px;
     height: 313px;
-    background: url('../src/Ellipse\ \(1\).png');
+    background: url('./src/Ellipse\ \(1\).png');
     margin-bottom: 20px;
 
     img {

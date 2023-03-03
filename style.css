@@ -247,7 +247,6 @@ body {
   font-family: "Prata";
   line-height: 22px;
 }
-
 .watch__diameter > hr {
   margin-top: -12px;
   margin-left: -65px;
@@ -308,7 +307,7 @@ body {
 .popular__item-img {
   width: 313px;
   height: 313px;
-  background: url("../src/Ellipse (1).png");
+  background: url("./src/Ellipse (1).png");
   margin-bottom: 20px;
 }
 .popular__item-img img {
