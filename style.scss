@@ -256,6 +256,7 @@ body {
   &__title {
     text-align: center;
     font-size: 32px;
+    font-family: 'Playfair Display';
     line-height: 43px;
   }
 
@@ -290,6 +291,7 @@ body {
   &-name {
     font-weight: 700;
     line-height: 24px;
+    font-family: 'Playfair Display';
     letter-spacing: 0.03em;
     margin-bottom: 10px;
   }
@@ -298,6 +300,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     margin-bottom: 5px;
+    font-family: 'Prata';
   }
 
   &-img {
@@ -315,6 +318,7 @@ body {
   &-more {
     a {
       line-height: 21px;
+      font-family: 'Playfair Display';
       display: flex;
       align-items: center;
 

@@ -260,6 +260,7 @@ body {
 .popular__title {
   text-align: center;
   font-size: 32px;
+  font-family: "Playfair Display";
   line-height: 43px;
 }
 .popular__watch {
@@ -296,6 +297,7 @@ body {
 .popular__item-name {
   font-weight: 700;
   line-height: 24px;
+  font-family: "Playfair Display";
   letter-spacing: 0.03em;
   margin-bottom: 10px;
 }
@@ -303,6 +305,7 @@ body {
   font-size: 12px;
   line-height: 16px;
   margin-bottom: 5px;
+  font-family: "Prata";
 }
 .popular__item-img {
   width: 313px;
@@ -316,6 +319,7 @@ body {
 }
 .popular__item-more a {
   line-height: 21px;
+  font-family: "Playfair Display";
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
